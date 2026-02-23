@@ -125,7 +125,7 @@ def place_market_buy(sym):
         "symbol": sym,
         "type": "MARKET",
         "reduceOnly": False,
-        "marginAsset": "USDT",
+        "marginAsset": "INR",
         "deviceType": "WEB",
         "userCategory": "EXTERNAL",
         "takeProfitPrice": tp
